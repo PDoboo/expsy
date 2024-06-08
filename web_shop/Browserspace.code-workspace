@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Browserspace"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web_shop"
+	}
+}
